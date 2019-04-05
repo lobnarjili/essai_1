@@ -1,0 +1,112 @@
+.navbar-custom{
+	position:absolute;
+	top :0px;
+	width:100%;
+}
+.navbar a{
+	color:black;
+font-weight:bold;	
+}
+.navbar a :hover {
+	background:orange;
+}
+header{
+	height:350px;
+	color:gray;
+	padding:15px 0;
+	
+	
+}
+header h1
+{
+	font-size:50px ;
+	text-shadow: 3px 3px 2px black ;
+	
+}
+header p
+{
+	font-size:20px ;
+	text-shadow: 3px 3px 2px black ; 
+	
+}
+.bloca{
+	font-size:20px ;
+	margin:20px 0;
+	border-top :1px solid gray ;
+	border-bottom :1px solid gray ;
+	padding: 5px 0;
+	background:#f1f1f1
+	 
+}
+.txt{
+	font-size:20px ;
+	margin-top:20px ;
+	
+	border-top :1px solid gray ;
+	border-bottom :1px solid gray ;
+	border-left :1px solid gray ;
+	border-right:1px solid gray ;
+	padding: 15px ;
+	padding-bottom:30px;
+	padding-top:30px;
+	background:#f1f1f1
+	
+	
+	
+}
+.txt1{
+	font-size:20px ;
+	margin-top:20px ;
+	
+	border-top :1px solid gray ;
+	border-bottom :1px solid gray ;
+	border-left :1px solid gray ;
+	border-right:1px solid gray ;
+	padding: 15px ;
+	padding-bottom:30px;
+	padding-top:30px;
+	background:#f1f1f1
+	
+	
+	
+}
+.txt2{
+	font-size:20px ;
+	margin-top:20px ;
+	
+	border-top :1px solid gray ;
+	border-bottom :1px solid gray ;
+	border-left :1px solid gray ;
+	border-right:1px solid gray ;
+	padding: 15px ;
+	padding-bottom:30px;
+	padding-top:30px;
+	background:#f1f1f1
+	
+	
+	
+}
+.blocb{
+	font-size:20px ;
+ 
+	border-bottom :1px solid gray ;
+	padding: 5px 0;
+	background:#f1f1f1;
+
+	border-top :1px solid gray ;
+
+	border-bottom :1px solid gray ;
+	}
+.blocc{
+	font-size:20px ;
+ 
+	padding: 15px 0;
+
+	}
+.footer{
+	width:100% ;
+	padding:20px 0 ; 
+	background :gray;
+	color:white;
+	font-weight:bold;
+}

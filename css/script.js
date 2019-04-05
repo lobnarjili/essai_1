@@ -1,0 +1,1 @@
+ document.write('The is an external element ');
